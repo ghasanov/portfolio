@@ -3782,4 +3782,11 @@ input, select, textarea {
 				max-width: 100%;
 			}
 
-		}
+	header .logo {
+  width: 56px;
+  height: 56px;
+}
+
+header .logo img {
+  width: 28px;
+} 
