@@ -32,3 +32,4 @@ Notes
 
 Next steps
 - Tell me if you want a third-party embed snippet, a self-hosted example, or a complete JS widget integrated into `index.html`.
+git pull --no-rebase origin main
